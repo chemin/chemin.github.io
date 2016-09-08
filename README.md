@@ -1,2 +1,0 @@
-# chemin.github.io
-chemin
